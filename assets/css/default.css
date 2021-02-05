@@ -1,0 +1,37 @@
+.bg-home {
+    background: url('../images/bg/bg-home.jpg');
+    width: 100%;
+    height: 100%;
+    background-position: center center;
+    background-size: cover;
+}
+
+.marque-images {
+    background-image: url('../images/slider/text-marketing.png');
+    height: 190px;
+}
+
+.axil-slider-area.portfolio-slider.axil-slide-activation.fix {
+    height: 100vh;
+}
+
+.portfolio-slider .thumbnail{
+    right: 15px;
+}
+
+h1.axil-display-1.wow.slideFadeInUp.text1 {
+    margin-bottom: 0;
+    font-size: 55px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2.axil-display-1.wow.slideFadeInUp.text2 {
+    font-size: 60px;
+    color:#d0292a;
+    font-family: 'Dancing Script', cursive;
+}
+
+h3.axil-display-1.wow.slideFadeInUp.text3 {
+    font-size: 55px;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
